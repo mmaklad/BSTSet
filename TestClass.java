@@ -3,7 +3,6 @@
  * @author moham
  */
 public class TestClass {
-
     /**
      * @param args the command line arguments
      */
@@ -42,7 +41,7 @@ public class TestClass {
 
 
 
-        //The Prof Test Class starts here
+        //Lab Test Class
         
         int[] d1 = {7, 0, 16, 3, 2, 11, 8, 9, 4}; //no repetitions
         int[] d2 = {5, 6, 5, 1, 2, 2, 4, 9, 8, 20, 32, 3, 17};//with repetitions
